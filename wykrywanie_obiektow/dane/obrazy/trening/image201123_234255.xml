@@ -1,7 +1,7 @@
-<annotation>
+<annotation verified="yes">
 	<folder>zdjecia3</folder>
-	<filename>image201123_235246.jpg</filename>
-	<path>/home/pi/Desktop/zdjecia3/image201123_235246.jpg</path>
+	<filename>image201123_234255.jpg</filename>
+	<path>/home/pi/Desktop/zdjecia3/image201123_234255.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,58 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>142</xmin>
-			<ymin>34</ymin>
-			<xmax>204</xmax>
-			<ymax>95</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stop</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>204</xmin>
-			<ymin>14</ymin>
-			<xmax>255</xmax>
-			<ymax>64</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ogr_50</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>267</xmin>
-			<ymin>15</ymin>
-			<xmax>315</xmax>
-			<ymax>59</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>stop</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>395</xmin>
-			<ymin>15</ymin>
-			<xmax>451</xmax>
-			<ymax>65</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>ogr_50</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>454</xmin>
-			<ymin>22</ymin>
-			<xmax>515</xmax>
-			<ymax>82</ymax>
+			<xmin>91</xmin>
+			<ymin>45</ymin>
+			<xmax>157</xmax>
+			<ymax>113</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +29,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>518</xmin>
-			<ymin>44</ymin>
-			<xmax>595</xmax>
-			<ymax>127</ymax>
+			<xmin>320</xmin>
+			<ymin>10</ymin>
+			<xmax>370</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>27</ymin>
+			<xmax>545</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>22</ymin>
+			<xmax>315</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ogr_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>33</ymin>
+			<xmax>244</xmax>
+			<ymax>97</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ogr_50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>13</ymin>
+			<xmax>445</xmax>
+			<ymax>71</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +89,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>433</xmin>
-			<ymin>108</ymin>
-			<xmax>467</xmax>
-			<ymax>177</ymax>
+			<xmin>294</xmin>
+			<ymin>141</ymin>
+			<xmax>350</xmax>
+			<ymax>221</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +101,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>376</xmin>
-			<ymin>91</ymin>
-			<xmax>403</xmax>
-			<ymax>152</ymax>
+			<xmin>484</xmin>
+			<ymin>163</ymin>
+			<xmax>527</xmax>
+			<ymax>243</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +113,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>306</xmin>
-			<ymin>99</ymin>
-			<xmax>346</xmax>
-			<ymax>166</ymax>
+			<xmin>377</xmin>
+			<ymin>134</ymin>
+			<xmax>416</xmax>
+			<ymax>217</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -125,10 +125,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>94</ymin>
-			<xmax>265</xmax>
-			<ymax>160</ymax>
+			<xmin>135</xmin>
+			<ymin>166</ymin>
+			<xmax>185</xmax>
+			<ymax>244</ymax>
 		</bndbox>
 	</object>
 </annotation>
